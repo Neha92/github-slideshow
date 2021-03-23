@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T03:38:18.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="a_Y-X_elFZ-f6Qdp2EdF" version="14.4.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-23T03:42:39.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="dC66Hk3faHdjA5rvSyY7" version="14.4.9" type="github" pages="3">
   <diagram id="YP8mXHIQrYgP5AKXRWBZ" name="Order_Types">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -424,6 +424,9 @@
             <mxPoint x="670" y="520" as="sourcePoint" />
             <mxPoint x="670" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9ptGc5viz9VdwnTHXcx6-8" value="&lt;h1&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Major Attributes of OrderRequest&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;ul&gt;&lt;li&gt;Quote Number&lt;/li&gt;&lt;li&gt;Estimate ID&lt;/li&gt;&lt;li&gt;DealID&lt;/li&gt;&lt;li&gt;Cloned DealID&lt;/li&gt;&lt;li&gt;Web OrderID&lt;/li&gt;&lt;li&gt;Web OrderID status&lt;/li&gt;&lt;li&gt;COT status&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="e3Ryyq7CfpypU13Xjy7x-40">
+          <mxGeometry x="31" y="270" width="240" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
